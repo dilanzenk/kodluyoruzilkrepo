@@ -1,6 +1,6 @@
 Kodluyoruz Ilk Repo
 
-https://raw.githubusercontent.com/dilanzenk/kodluyoruzilkrepo/main/repo.PNG
+[https://raw.githubusercontent.com/dilanzenk/kodluyoruzilkrepo/main/repo.PNG]
 
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
